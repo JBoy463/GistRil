@@ -1,0 +1,16 @@
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+    
+body{
+    background: linear-gradient(rgba(138, 127, 112, 0.479)30%, rgba(255, 146, 3, 0.815)80%), url(1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    align-content: left;
+    align text: right;
+}
+
